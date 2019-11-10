@@ -1,0 +1,7 @@
+QWidget {
+	background-color: lime;
+}
+
+QPushButton, QLineEdit {
+	background-color: white;
+}
